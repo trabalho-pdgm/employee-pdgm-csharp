@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\valen\\source\\repos\\EmployeeApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3A74DC-5BAD-4E33-85BE-3ECBEE22B80A}|EmployeeTest\\EmployeeTest.csproj|c:\\users\\valen\\source\\repos\\employeeapp\\employeetest\\shareholdertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3A74DC-5BAD-4E33-85BE-3ECBEE22B80A}|EmployeeTest\\EmployeeTest.csproj|solutionrelative:employeetest\\shareholdertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3A74DC-5BAD-4E33-85BE-3ECBEE22B80A}|EmployeeTest\\EmployeeTest.csproj|c:\\users\\valen\\source\\repos\\employeeapp\\employeetest\\employeetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3A74DC-5BAD-4E33-85BE-3ECBEE22B80A}|EmployeeTest\\EmployeeTest.csproj|solutionrelative:employeetest\\employeetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9254E603-47BA-4DBC-8D74-2802E4ED67E8}|EmployeeApp\\EmployeeApp.csproj|C:\\Users\\valen\\source\\repos\\EmployeeApp\\employeeapp\\shareholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9254E603-47BA-4DBC-8D74-2802E4ED67E8}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\shareholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9254E603-47BA-4DBC-8D74-2802E4ED67E8}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\valen\\source\\repos\\employeeapp\\employeeapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9254E603-47BA-4DBC-8D74-2802E4ED67E8}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9254E603-47BA-4DBC-8D74-2802E4ED67E8}|EmployeeApp\\EmployeeApp.csproj|C:\\Users\\valen\\source\\repos\\EmployeeApp\\employeeapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9254E603-47BA-4DBC-8D74-2802E4ED67E8}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShareHolder.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\EmployeeApp\\EmployeeApp\\ShareHolder.cs",
+              "RelativeDocumentMoniker": "EmployeeApp\\ShareHolder.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\EmployeeApp\\EmployeeApp\\ShareHolder.cs",
+              "RelativeToolTip": "EmployeeApp\\ShareHolder.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T03:47:54.599Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\EmployeeApp\\EmployeeApp\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeApp\\Employee.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\EmployeeApp\\EmployeeApp\\Employee.cs",
+              "RelativeToolTip": "EmployeeApp\\Employee.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T02:25:54.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeTest.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\EmployeeApp\\EmployeeTest\\EmployeeTest.cs",
+              "RelativeDocumentMoniker": "EmployeeTest\\EmployeeTest.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\EmployeeApp\\EmployeeTest\\EmployeeTest.cs",
+              "RelativeToolTip": "EmployeeTest\\EmployeeTest.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T00:52:09.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShareHolderTest.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\EmployeeApp\\EmployeeTest\\ShareHolderTest.cs",
+              "RelativeDocumentMoniker": "EmployeeTest\\ShareHolderTest.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\EmployeeApp\\EmployeeTest\\ShareHolderTest.cs",
+              "RelativeToolTip": "EmployeeTest\\ShareHolderTest.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAABUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T00:51:27.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\EmployeeApp\\EmployeeApp\\Person.cs",
+              "RelativeDocumentMoniker": "EmployeeApp\\Person.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\EmployeeApp\\EmployeeApp\\Person.cs",
+              "RelativeToolTip": "EmployeeApp\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T03:43:12.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
